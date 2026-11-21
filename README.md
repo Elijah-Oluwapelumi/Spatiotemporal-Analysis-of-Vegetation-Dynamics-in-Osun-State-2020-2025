@@ -374,11 +374,8 @@ This provides an opportunity for further analysis using rainfall, land-use/land-
 
  
 
-
-<img width="..." height="..." alt="Osun Vegetation Index Difference" src="YOUR_GITHUB_IMAGE_LINK" />
-
 ### Final Project Map
 
-<img width="..." height="..." alt="Spatiotemporal Analysis of Vegetation Dynamics in Osun State" src="YOUR_GITHUB_IMAGE_LINK" />
+<img width="..." height="..." alt="Spatiotemporal Analysis of Vegetation Dynamics in Osun State" src="Map/osun.jpg" />
 
 ---
